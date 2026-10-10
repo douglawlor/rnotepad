@@ -1,0 +1,4 @@
+bin/
+tests/output/
+.codex/
+work/
